@@ -22,4 +22,8 @@ public class BankAccount {
             System.out.println("Amount must be positive");
         }
     }
+    @Override
+    public String toString(){
+        return accountNumber+" "+balance;
+    }
 }
