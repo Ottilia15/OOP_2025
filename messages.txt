@@ -1,0 +1,4 @@
+0,1,Tárgyaláson vagy?
+2,1,Megyek én is holnap
+0,2,Chuck Norris nem alszik, ő vár
+3,0,Szia, mi a helyzet?
