@@ -1,0 +1,10 @@
+f001;Lionel Messi;Argentin;10;Inter Miami
+f002;Cristiano Ronaldo;Portugál;7;Al Nassr
+f003;Luka Modric;Horvát;10;Real Madrid
+f004;Karim Benzema;Francia;9;Al Ittihad
+f005;Kylian Mbappé;Francia;10;PSG
+f006;Neymar Jr;Brazil;10;Al Hilal
+f007;Erling Haaland;Norvég;9;Manchester City
+f008;Vinícius Júnior;Brazil;7;Real Madrid
+f009;Jude Bellingham;Angol;22;Real Madrid
+f010;Antoine Griezmann;Francia;7;Atlético Madrid
